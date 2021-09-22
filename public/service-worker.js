@@ -1,3 +1,5 @@
+console.log("Hellooooo I'm your service worker (; ")
+
 const FILES_TO_CACHE = [
     '/',
     '/manifest.webmanifest',
