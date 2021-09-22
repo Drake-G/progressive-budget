@@ -1,6 +1,7 @@
 const FILES_TO_CACHE = [
     '/',
     '/index.html',
+    '/db.js'
   ];
   
   const CACHE_NAME = 'static-cache-v1';
