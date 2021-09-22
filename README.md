@@ -4,7 +4,7 @@ This is a budget tracker that will allow the user to track their incoming and ou
 
 ## Installation
 
-This budget tracker is currently not deployed due to a Heroku conflict. My main issue with this assignment has been that, quite frankly, the syntax really confuses me and I'm just not quite sure how to impliment it properly. I've been trying to base it off of the mini project for this unit but I'm having a very hard time figuring out what goes where and why each component is the way it is...I'm sure I'm just confusing myself but I've spent a lot of time trying to get the right set up locally and I'm kinda lost, thus why this one is very far from working.
+You can check out this application [here](https://arcane-stream-42310.herokuapp.com)
 
 ## Photos 
 ![shot1](Images/budgettracker.png)
